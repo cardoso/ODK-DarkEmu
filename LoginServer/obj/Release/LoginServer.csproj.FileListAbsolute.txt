@@ -1,0 +1,12 @@
+C:\Users\matheusmcardoso\Documents\C# Projects\DarkEmu\LoginServer\bin\Release\LoginServer.exe
+C:\Users\matheusmcardoso\Documents\C# Projects\DarkEmu\LoginServer\bin\Release\LoginServer.pdb
+C:\Users\matheusmcardoso\Documents\C# Projects\DarkEmu\LoginServer\bin\Release\MySql.Data.dll
+C:\Users\matheusmcardoso\Documents\C# Projects\DarkEmu\LoginServer\obj\Release\LoginServer.exe
+C:\Users\matheusmcardoso\Documents\C# Projects\DarkEmu\LoginServer\obj\Release\LoginServer.pdb
+C:\Users\matheusmcardoso\Documents\C# Projects\DarkEmu\LoginServer\obj\Release\LoginServer.csprojResolveAssemblyReference.cache
+C:\Users\matheusmcardoso\Documents\C# Projects\DarkEmu\LoginServer\bin\Release\Core.dll
+C:\Users\matheusmcardoso\Documents\C# Projects\DarkEmu\LoginServer\bin\Release\Core.pdb
+C:\Users\matheusmcardoso\Documents\C# Projects\DarkEmu\LoginServer\bin\Release\Database.dll
+C:\Users\matheusmcardoso\Documents\C# Projects\DarkEmu\LoginServer\bin\Release\Database.pdb
+C:\DarkEmu\Release\LoginServer.exe
+C:\DarkEmu\Release\LoginServer.pdb

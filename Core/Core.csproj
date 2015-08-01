@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{42CE784F-E015-4F12-88C1-FBE166BF5077}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Core</RootNamespace>
+    <AssemblyName>Core</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\..\..\..\..\DarkEmu\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\..\..\..\..\..\DarkEmu\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BloodBibleSignInfo.cs" />
+    <Compile Include="EffectInfo.cs" />
+    <Compile Include="ExtraInfo.cs" />
+    <Compile Include="ExtraSlotInfo.cs" />
+    <Compile Include="GameTime.cs" />
+    <Compile Include="GearInfo.cs" />
+    <Compile Include="GearSlotInfo.cs" />
+    <Compile Include="InstanceDungeonInfo.cs" />
+    <Compile Include="InventoryInfo.cs" />
+    <Compile Include="InventorySlotInfo.cs" />
+    <Compile Include="NicknameInfo.cs" />
+    <Compile Include="NPCInfo.cs" />
+    <Compile Include="Packets\CG\CGConnect.cs" />
+    <Compile Include="Packets\CG\CGLogout.cs" />
+    <Compile Include="Packets\CG\CGReady.cs" />
+    <Compile Include="Packets\CG\CGSay.cs" />
+    <Compile Include="Packets\CL\CLCreatePC.cs" />
+    <Compile Include="Packets\CL\CLDeletePC.cs" />
+    <Compile Include="Packets\CL\CLReconnectLogin.cs" />
+    <Compile Include="Packets\CL\CLGetPCList.cs" />
+    <Compile Include="Packets\CL\CLGetServerList.cs" />
+    <Compile Include="Packets\CL\CLGetWorldList.cs" />
+    <Compile Include="Packets\CL\CLLogin.cs" />
+    <Compile Include="Packets\CL\CLQueryCharacterName.cs" />
+    <Compile Include="Packets\CL\CLSelectPC.cs" />
+    <Compile Include="Packets\CL\CLVersionCheck.cs" />
+    <Compile Include="Packets\GC\GCSetPosition.cs" />
+    <Compile Include="Packets\GC\GCUpdateInfo.cs" />
+    <Compile Include="Packets\GC\GCReconnectLogin.cs" />
+    <Compile Include="Packets\GL\GLIncomingConnectionError.cs" />
+    <Compile Include="Packets\GL\GLIncomingConnectionOK.cs" />
+    <Compile Include="Packets\GL\GLIncomingConnection.cs" />
+    <Compile Include="Packets\LC\LCCreatePCError.cs" />
+    <Compile Include="Packets\LC\LCCreatePCOK.cs" />
+    <Compile Include="Packets\LC\LCDeletePCError.cs" />
+    <Compile Include="Packets\LC\LCDeletePCOK.cs" />
+    <Compile Include="Packets\LC\LCVersionCheckError.cs" />
+    <Compile Include="Packets\LC\LCVersionCheckOK.cs" />
+    <Compile Include="Packets\LC\LCQueryResultCharacterName.cs" />
+    <Compile Include="Packets\LC\LCReconnect.cs" />
+    <Compile Include="Packets\LG\LGIncomingConnection.cs" />
+    <Compile Include="PCItemInfo.cs" />
+    <Compile Include="PCSlayerInfo2.cs" />
+    <Compile Include="SubItemInfo.cs" />
+    <Compile Include="Types\CreatureTypes.cs" />
+    <Compile Include="Packets\LC\LCLoginError.cs" />
+    <Compile Include="Packets\LC\LCLoginOK.cs" />
+    <Compile Include="Packets\LC\LCPCList.cs" />
+    <Compile Include="Packets\LC\LCServerList.cs" />
+    <Compile Include="Packets\LC\LCWorldList.cs" />
+    <Compile Include="Packet.cs" />
+    <Compile Include="PCInfo.cs" />
+    <Compile Include="PCOustersInfo.cs" />
+    <Compile Include="PCSlayerInfo.cs" />
+    <Compile Include="PCVampireInfo.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Types\PacketItemDef.cs" />
+    <Compile Include="Types\PlayerTypes.cs" />
+    <Compile Include="ServerGroupInfo.cs" />
+    <Compile Include="Types\ZoneTypes.cs" />
+    <Compile Include="WorldInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

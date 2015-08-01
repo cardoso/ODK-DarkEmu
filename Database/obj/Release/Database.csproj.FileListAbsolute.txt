@@ -1,0 +1,10 @@
+C:\Users\matheusmcardoso\Documents\C# Projects\DarkEmu\Database\obj\Release\Database.csprojResolveAssemblyReference.cache
+C:\Users\matheusmcardoso\Documents\C# Projects\DarkEmu\Database\bin\Release\Database.dll
+C:\Users\matheusmcardoso\Documents\C# Projects\DarkEmu\Database\bin\Release\Database.pdb
+C:\Users\matheusmcardoso\Documents\C# Projects\DarkEmu\Database\bin\Release\Core.dll
+C:\Users\matheusmcardoso\Documents\C# Projects\DarkEmu\Database\bin\Release\MySql.Data.dll
+C:\Users\matheusmcardoso\Documents\C# Projects\DarkEmu\Database\bin\Release\Core.pdb
+C:\Users\matheusmcardoso\Documents\C# Projects\DarkEmu\Database\obj\Release\Database.dll
+C:\Users\matheusmcardoso\Documents\C# Projects\DarkEmu\Database\obj\Release\Database.pdb
+C:\DarkEmu\Release\Database.dll
+C:\DarkEmu\Release\Database.pdb

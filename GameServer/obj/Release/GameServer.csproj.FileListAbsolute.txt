@@ -1,0 +1,12 @@
+C:\Users\matheusmcardoso\Documents\C# Projects\DarkEmu\GameServer\bin\Release\GameServer.exe
+C:\Users\matheusmcardoso\Documents\C# Projects\DarkEmu\GameServer\bin\Release\GameServer.pdb
+C:\Users\matheusmcardoso\Documents\C# Projects\DarkEmu\GameServer\bin\Release\Core.dll
+C:\Users\matheusmcardoso\Documents\C# Projects\DarkEmu\GameServer\bin\Release\Database.dll
+C:\Users\matheusmcardoso\Documents\C# Projects\DarkEmu\GameServer\bin\Release\MySql.Data.dll
+C:\Users\matheusmcardoso\Documents\C# Projects\DarkEmu\GameServer\bin\Release\Core.pdb
+C:\Users\matheusmcardoso\Documents\C# Projects\DarkEmu\GameServer\bin\Release\Database.pdb
+C:\Users\matheusmcardoso\Documents\C# Projects\DarkEmu\GameServer\obj\Release\GameServer.csprojResolveAssemblyReference.cache
+C:\Users\matheusmcardoso\Documents\C# Projects\DarkEmu\GameServer\obj\Release\GameServer.exe
+C:\Users\matheusmcardoso\Documents\C# Projects\DarkEmu\GameServer\obj\Release\GameServer.pdb
+C:\DarkEmu\Release\GameServer.exe
+C:\DarkEmu\Release\GameServer.pdb
