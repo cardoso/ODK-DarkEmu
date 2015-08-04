@@ -1,5 +1,0 @@
-C:\Users\matheusmcardoso\Documents\C# Projects\DarkEmu\LoginServer\bin\Debug\LoginServer.exe
-C:\Users\matheusmcardoso\Documents\C# Projects\DarkEmu\LoginServer\bin\Debug\LoginServer.pdb
-C:\Users\matheusmcardoso\Documents\C# Projects\DarkEmu\LoginServer\bin\Debug\MySql.Data.dll
-C:\Users\matheusmcardoso\Documents\C# Projects\DarkEmu\LoginServer\obj\Debug\LoginServer.exe
-C:\Users\matheusmcardoso\Documents\C# Projects\DarkEmu\LoginServer\obj\Debug\LoginServer.pdb

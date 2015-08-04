@@ -1,7 +1,0 @@
-C:\Users\matheusmcardoso\Documents\C# Projects\DarkEmu\Core\bin\Release\Core.dll
-C:\Users\matheusmcardoso\Documents\C# Projects\DarkEmu\Core\bin\Release\Core.pdb
-C:\Users\matheusmcardoso\Documents\C# Projects\DarkEmu\Core\obj\Release\Core.dll
-C:\Users\matheusmcardoso\Documents\C# Projects\DarkEmu\Core\obj\Release\Core.pdb
-C:\DarkEmu\Release\Core.dll
-C:\DarkEmu\Release\Core.pdb
-C:\Users\matheusmcardoso\Documents\C# Projects\DarkEmu\Core\obj\Release\Core.csprojResolveAssemblyReference.cache
